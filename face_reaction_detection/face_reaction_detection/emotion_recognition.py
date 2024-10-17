@@ -59,6 +59,7 @@ class EmotionRecognition:
             color_mode="grayscale",
             class_mode='categorical')
 
+    #this method is for the build and save the model
     def build_model(self):
         self.model = Sequential()
         self.model.add(Conv2D(32, kernel_size=(3, 3), activation='relu', input_shape=(48, 48, 1)))

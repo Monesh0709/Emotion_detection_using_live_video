@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\Desktop\\GIT_LAB\\Emotion_detection_using_live_video\\face_reaction_detection\\face_reaction_detection\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F1672876-E2D8-4609-933F-48CD720065A4}|face_reaction_detection.pyproj|C:\\Users\\HP\\Desktop\\GIT_LAB\\Emotion_detection_using_live_video\\face_reaction_detection\\face_reaction_detection\\emotion_recognition.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F1672876-E2D8-4609-933F-48CD720065A4}|face_reaction_detection.pyproj|solutionrelative:emotion_recognition.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "emotion_recognition.py",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\GIT_LAB\\Emotion_detection_using_live_video\\face_reaction_detection\\face_reaction_detection\\emotion_recognition.py",
+              "RelativeDocumentMoniker": "emotion_recognition.py",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\GIT_LAB\\Emotion_detection_using_live_video\\face_reaction_detection\\face_reaction_detection\\emotion_recognition.py",
+              "RelativeToolTip": "emotion_recognition.py",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAADoAAAAjAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAOJSURBVDhPrZRdaFRHFMf/M/crrlGTDdk0abYmJrbUmNiWQCsFaSUipWnAp/bRB/vSQksQhBZqUCykEQyEPvWlL1Jo8aHQVIRWEFqI1FAfIlI0i3WrIYJba2J2773z1TNz1/UDKRQ87P\u002BemXvn/vacM3MPnqoZY5j1HyydGs\u002BzaPQX9SNfwTXV6bO4I\u002BBJwZdx3tNJ3hMq1BKREgi1cr5JC0RGk5fgpKAqfh7sX/rWAaeWzy5ub\u002BroK3vz\u002BDw\u002Bij62Dr3cR18A9IQK3UGCUBFIWqhC\u002BJhfuZvHWlJZHHjp3lbfAn\u002BT51m714/jV86jebUHNZ6iDIE7TOAPKHARIqkBsmpoLOFLglOEG5BioDfEm10BtPFTy8qA\u002Bhz/K/kJ1ds5BPNLqKxI3FqVkOSl9XUZaRrSQjv/2aetCF4oIL77twNye2nzhLytb6DVix3kwM4DmHpvCgffOYjixqKDFQtFTHw4gZnDMxgeGG6AQb/mMI\u002BQm7gB7AyNfIZq1sIT9/Ku53dh4coCNrdvxomPTyAX5jD33Rx6i70oXSuhp7snA4oMmMN62hiqDZlLucuTqoXQ//AYZYrQKAMVK9TWaoijGGNvjKFULmH/R/shEtGAaUlpGxrD7i3TluUi7AqF7AslNiGL0AJ3v7IbN5dvYvzoOC4uXERbSxtyUQ6F1gK2dG/JYPWUwRkMewjYwaR8ztPgqWgUf/rraRybOYbr5eu4dPkSTp46iQtnLmD2m1kM76jXkP6YQoRihOEZ0KXcrLRs5Qqsxhxw9P3R7AXS/d088sURTB6fRJqkEDGlTTAHJKPorHsQ4QZjZLuSYPGTj4YT1ay6Vn0E5lSvoaalDWCzTmU\u002BTenkPwA8Drtfs0dgNLcYTREyztwuO2BOaLNJ0Lcp1P\u002BCGV1PmUS3nLkaRpRuZD9yemRhk59MYujFoWwlyaY18tbIE2F0XFzxGO2NnbkIOQVtvXuZFh\u002BaOIS9\u002B/Ziz9gejLw98h\u002BwzOyMcnA3HWh\u002BuXuuXa\u002B\u002B9uuf63F1gW7YRxZu19TH1hrzh2zHthx2vvo6KsunfxjcWhnLgDc6f98ovJcDvwWBH6GJNyGyQgjjUSG4R6LUyCtGokpZCQQkGusE927Nfj/YX9nngJcXO76KjHiX\u002BcweKcOpIj7ninOuDefUhrmhnaTe5VHT8qit\u002BpS1Z6iRGWpumlqXYerO9NCzpS8t7yka8C9L2m0aWMo\u002BTAAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-10-17T12:43:30.163Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
